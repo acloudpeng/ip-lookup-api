@@ -3,6 +3,16 @@
 **Free IP geolocation API — country, region, city, coordinates, timezone, ISP and ASN. IPv4 + IPv6.
 No signup required.**
 
+**简体中文** · 免费 IP 归属地查询 API：国家、城市、经纬度、时区、运营商、ASN 一次返回。支持 IPv4/IPv6，无需注册，附 9 种语言的可运行示例。
+
+**繁體中文** · 免費 IP 地理位置查詢 API：一次取得國家、城市、經緯度、時區、ISP 與 ASN。支援 IPv4/IPv6，不需註冊，附 9 種語言的範例程式碼。
+
+**English** · A free IP geolocation API: country, city, coordinates, timezone, ISP and ASN in one call. IPv4 and IPv6, no signup, with runnable examples in nine languages.
+
+**日本語** · 無料の IP ジオロケーション API。国・都市・緯度経度・タイムゾーン・ISP・ASN を一度に取得できます。IPv4 / IPv6 に対応し、登録は不要。9 言語のサンプルコード付き。
+
+**한국어** · 무료 IP 지오로케이션 API입니다. 국가, 도시, 위도·경도, 시간대, ISP, ASN을 한 번에 조회할 수 있습니다. IPv4/IPv6를 지원하며 가입 없이 바로 쓸 수 있고, 9개 언어 예제 코드도 함께 제공합니다.
+
 A no-nonsense alternative to the usual "10,000 free requests/month after you create an account"
 services: this one answers without an API key, and answers from the command line by default.
 
